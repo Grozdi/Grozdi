@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grozdi
-- 👀 I’m interested in music, languages and game develipment
+- 👀 I’m interested in music, languages and game development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with fellow peers, interested in a similar field
 - 📫 How to reach me @kosev.sou@gmail.com
